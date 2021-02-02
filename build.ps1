@@ -3,7 +3,7 @@
 $number_of_build_workers = 8
 $enable_cuda = $true
 $use_vcpkg = $true
-$use_ninja = $true
+$use_ninja = $false
 $force_cpp_build = $false
 
 #$additional_build_setup = " -DCMAKE_CUDA_ARCHITECTURES=30"
